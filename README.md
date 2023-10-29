@@ -47,10 +47,10 @@ pip install --upgrade -r requirements.txt
 ### Step 5: Run all the necessary servers and pipelines
 Have 4 terminals, and in each terminal run each of the following commands
 ```
-python pipeline.py
-```
-```
 python backend.py
+```
+```
+python pipeline.py
 ```
 ```
 python main.py
