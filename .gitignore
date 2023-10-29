@@ -1,0 +1,6 @@
+pw-env/
+__pycache__/
+**/.env
+.vscode/
+.DS_Store
+.env
