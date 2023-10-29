@@ -6,7 +6,7 @@ from common.prompt import prompt
 from llm_app import chunk_texts, extract_texts
 load_dotenv()
 
-folder_path = "./folder"
+folder_path = os.environ.get("REPO_NAME", "")
 
 def run(host, port):
     # Given a user search query

@@ -35,6 +35,7 @@ MAX_TOKENS=400
 TEMPERATURE=0.0
 REPO_NAME={REPO_NAME}
 REPO_OWNER={REPO_OWNER}
+GITHUB_API_KEY={GITHUB_API_KEY}
 ```
 
 ### Step 4: Install all dependencies
@@ -43,14 +44,22 @@ Install dependencies using
 pip install --upgrade -r requirements.txt
 ```
 
-### Step 5: Run Pathway server
-Run the server using
+### Step 5: Run all the necessary servers and pipelines
+Have 4 terminals, and in each terminal run each of the following commands
+```
+python pipeline.py
+```
+```
+python backend.py
+```
 ```
 python main.py
 ```
-
-### Step 6: Run the UI interface
-Run the UI using
 ```
 streamlit run ui.py
 ```
+
+### Step 6: Use the UI interface to start using the tool!
+Ask away the questions related to repo or anything else that you want!
+
+## Made with ❤️ by __balloon animals__ during TransfiNITTe 2023 at NITT 

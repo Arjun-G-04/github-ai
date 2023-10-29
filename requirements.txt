@@ -6,3 +6,4 @@ requests
 datetime
 streamlit
 python-dotenv
+flask
