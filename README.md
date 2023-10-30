@@ -1,5 +1,8 @@
 # GitHub AI
 
+## Demo
+https://github.com/Arjun-G-04/github-ai/assets/34741958/c299e132-5bbb-4257-930d-e1dbce700a2c
+
 ## Setup
 
 ### Pre-requisites
