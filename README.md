@@ -3,6 +3,9 @@
 ## Demo
 https://github.com/Arjun-G-04/github-ai/assets/34741958/c299e132-5bbb-4257-930d-e1dbce700a2c
 
+## Presentation
+https://www.canva.com/design/DAFymXb9jvk/-GpQsNQG1r7HMl9YwZlMyw/view?utm_content=DAFymXb9jvk&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 ## Setup
 
 ### Pre-requisites
